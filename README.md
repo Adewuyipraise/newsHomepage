@@ -23,8 +23,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Adewuyipraise/newsHomepage/)
-- Live Site URL: [Add live site URL here](https://adewuyipraise.github.io/newsHomepage/)
+- Solution URL: [GitHUb](https://github.com/Adewuyipraise/newsHomepage/)
+- Live Site URL: [Github](https://adewuyipraise.github.io/newsHomepage/)
 
 ## My process
 
