@@ -18,7 +18,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Screenshot
 
-![](screenshot.jpg)
+![](screenshot.jpg.JPG)
 
 
 ### Links
